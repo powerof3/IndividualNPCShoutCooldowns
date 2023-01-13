@@ -1,0 +1,14 @@
+{
+  "name": "individual-npc-shout-cooldowns",
+  "version-string": "1.0.0",
+  "description": "",
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "robin-hood-hashing",
+    "rsm-binary-io",
+    "spdlog",
+    "xbyak"
+  ]
+}
